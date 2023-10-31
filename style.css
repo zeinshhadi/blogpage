@@ -45,10 +45,35 @@
   margin: 10px 0px 0px 240px;
   line-height: 2;
   font-size: 20px;
+  margin-bottom: 50px;
 }
 .details-sub li {
   margin-left: 50px;
   font-weight: 300;
+}
+.dashed-border {
+  border: #2a2a2c dashed 2px;
+}
+.complexity {
+  margin: 30px;
+}
+.complexity-title {
+  text-align: center;
+  padding: 30px;
+  font-size: 40px;
+}
+table tr,
+td {
+  border: 1px solid white;
+  padding: 50px;
+  font-size: 20px;
+  background-color: #2a2a2c;
+}
+th {
+  border: 2px solid white;
+  background-color: #2f8d46;
+  padding: 30px;
+  font-weight: bold;
 }
 .similars {
   margin: 50px 0px 0px 180px;
